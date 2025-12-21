@@ -9,7 +9,7 @@ B.S., Mechanical Engineering, Cornell University Class of 2027
 
 ## Class Projects
 
-Please view my contributions to my FLuid Mechanical Dissection group project for Fluid Mechanics (MAE 3230): [Final Project](https://docs.google.com/document/d/1sO_C3_E_EDNVTi5B8zCy2V8x4zQQhsYUwdQ-X9TvVN4/edit?usp=sharing) 
+Please view my contributions to my Fluid Mechanical Dissection group project for Fluid Mechanics (MAE 3230): [Final Project](https://docs.google.com/document/d/1sO_C3_E_EDNVTi5B8zCy2V8x4zQQhsYUwdQ-X9TvVN4/edit?usp=sharing) 
 
 Please view my contributions to my final group project for Systems Dynamics (MAE 3260): [Final Project](https://docs.google.com/document/d/1foi2s8i6zV3oaAJQCmGNfyazv6qLkuF5/edit?usp=sharing&ouid=109682989027338755165&rtpof=true&sd=true)
 
