@@ -9,4 +9,4 @@ This assignment helped me better understand how heat transfer concepts connect t
 This will be useful to me because I want to work in mechanical engineering and thermal systems are involved in so many real applications, from electronics cooling to engines and energy systems. The assignment showed me that even a simple geometry can involve several layers of modeling and assumptions, and that engineering is not just plugging numbers into formulas but deciding which model best matches the physical situation. It also reminded me how important it is to interpret wording carefully, since small differences in assumptions can change the final answer. Overall, this assignment gave me more confidence in analyzing fins, heat sinks, and resistance networks, and it helped me see how classroom theory can be applied to practical thermal design problems.
 
 ## Assignment PDF
-[View Homework PDF](https://aahil24108.github.io/cornell-mae-ug.github.io-portfolio-aaa387/assets/pdf/homework-assignment.pdf)
+[View Homework PDF](https://aahil24108.github.io/Cornell-MAE-UG-sp26-portfolio-aahil24108-/MAE%203240%20HW%205.pdf)
