@@ -1,8 +1,3 @@
-layout: page
-title: MAE Homework Reflection
-permalink: /mae-homework-reflection/
----
-
 # MAE Homework Reflection
 
 ## Selected Assignment
